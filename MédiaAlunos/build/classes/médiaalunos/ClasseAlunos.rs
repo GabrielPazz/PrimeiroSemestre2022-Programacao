@@ -1,4 +1,0 @@
-mediaalunos.ClasseMedia
-MediaAlunos.ClasseAlunos
-MédiaAlunos.ClasseAlunos
-mediaalunos.ClasseAlunos
